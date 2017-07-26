@@ -1,8 +1,9 @@
-package com.help.lives;
+package com.help.lives.ui.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+
+import com.help.lives.R;
 
 public class LivesMainActivity extends AppCompatActivity {
 
@@ -10,6 +11,5 @@ public class LivesMainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lives_main);
-        Log.d("33", "onCreate: ==============");
     }
 }
