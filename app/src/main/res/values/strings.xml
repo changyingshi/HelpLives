@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelpLives</string>
+    <string name="tab_homepage">首页</string>
+    <string name="tab_knowledge">求知</string>
+    <string name="tab_category">分类</string>
+    <string name="tab_person">我的</string>
 </resources>
